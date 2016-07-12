@@ -1,0 +1,37 @@
+
+****  GIT and GitHub ****
+
+***  Para criar um repositorio  ***
+	
+	$ git init 				[se ja estiver dentro da pasta]
+	ou
+	$ git init /home/repo   [se indicando caminho do novo repositorio]
+
+***  Para adicionar um arquivo ao git  ***
+	
+	$ git add nome_do_arquivo
+	Para adicionar todos os arquivos:
+	$ git add .
+
+*** Commit ***
+	
+	$ git commit 						[para comitar todos arquivos adicionados]
+	$ git commit -m "nome_do_arquivo"	[para comitar somente um arquivo selecionado]
+
+	Se receber uma mensangem *** Please tell me who you are.
+	Coloque seu email e nickname do GitHub:
+
+	$ git config --global user.email "email@email.com"
+	$ git config --global user.name "Nick Name"
+
+	Apos rodar o commit um editor de texto com uma mensagem para voce sera aberta.
+	Escreva algum comentario no inicio mesmo sobre o commit, salve o arquivo e saia do editor.
+
+*** Verifica os arquivos que estao preparados para o commit **
+	
+	$ git status
+
+*** Para ver os commits realizados ***
+
+	$ git log
+
