@@ -2,6 +2,8 @@
 Neste tutorial nós vamos aprender como criar um repositório Git no computador, comandos para versionamento de projetos, 
 a conectar sua conta do GitHub e fazer o upload de seus arquivos.
 
+Para tutorial em video, acesse a playlist no YouTube do [Webschool.io](https://www.youtube.com/watch?v=TReVFOxhh7E&list=PL77JVjKTJT2h4aACrIx1ECmr8h9esjh16&index=1)
+
 Para isso, já pressuponho que *esteja instalado o Git* em seu computador. [Ir ao site do Git](https://git-scm.com/)
 
 ## REPOSITÓRIO GIT LOCAL
