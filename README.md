@@ -3,6 +3,7 @@ Neste tutorial nós vamos aprender como criar um repositório Git no computador,
 a conectar sua conta do GitHub e fazer o upload de seus arquivos.
 
 Para isso, já pressuponho que *esteja instalado o Git* em seu computador. [Ir ao site do Git](https://git-scm.com/)
++ Não se incomodem com a falta de acentuação
 
 ## REPOSITORIO GIT LOCAL
 
